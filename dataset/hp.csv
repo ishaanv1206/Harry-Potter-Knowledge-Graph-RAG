@@ -40,7 +40,7 @@ SNO,Name,House,Role,Notable Traits,Birthdate,Blood Status,Patronus,Wand Core
 39,Fenrir Greyback,,"Werewolf, Death Eater","Savage, Violent",Unknown,Half-blood,Unknown,Unknown
 40,Nymphadora Tonks,Gryffindor,"Auror, Metamorphmagus","Kind, Quirky, Brave",1973,Half-blood,Patronus - Otter,"Willow, 10½ "
 41,Mad-Eye Moody,Gryffindor,"Auror, Order Member","Paranoid, Brave, Loyal","September 30, 1952",Pure-blood,Unknown,Unknown
-42,Grawp,,Hagrid’s Brother,"Kind-hearted, Giant",Unknown,Half-giant,Unknown,Unknown
+42,Grawp,,Hagrids Brother,"Kind-hearted, Giant",Unknown,Half-giant,Unknown,Unknown
 43,Rubeus Hagrid,Gryffindor,"Keeper of Keys, Gamekeeper","Gentle, Loyal, Brave","December 6, 1928",Half-giant,Unknown,Unknown
 44,Regulus Black,Slytherin,Death Eater (formerly),Rebelled against Voldemort,1961,Pure-blood,Unknown,Unknown
 45,Lily Potter,Gryffindor,Mother of Harry Potter,"Loving, Brave, Self-sacrificing","January 30, 1960",Muggle-born,Doe,Unknown
@@ -53,8 +53,8 @@ SNO,Name,House,Role,Notable Traits,Birthdate,Blood Status,Patronus,Wand Core
 52,Lavender Brown,Gryffindor,"Student, Love Interest","Dramatic, Emotional",1980,Muggle-born,Unknown,Unknown
 53,Parvati Patil,Gryffindor,"Student, Divination Student","Cheerful, Loyal",1979,Pure-blood,Unknown,Unknown
 54,Padma Patil,Ravenclaw,"Student, Prefect","Intelligent, Loyal",1979,Pure-blood,Unknown,Unknown
-55,Dudley Dursley,,Harry’s Cousin,"Spoiled, Bully, Self-centered","June 23, 1980",Muggle-born,Unknown,Unknown
-56,Vernon Dursley,,Harry’s Uncle,"Aggressive, Unkind, Inconsiderate",1950,Muggle-born,Unknown,Unknown
+55,Dudley Dursley,,Harrys Cousin,"Spoiled, Bully, Self-centered","June 23, 1980",Muggle-born,Unknown,Unknown
+56,Vernon Dursley,,Harrys Uncle,"Aggressive, Unkind, Inconsiderate",1950,Muggle-born,Unknown,Unknown
 57,Merope Gaunt,Slytherin,Mother of Voldemort,"Tragic, Abused, Manipulative",Unknown,Pure-blood,Unknown,Unknown
 58,Salazar Slytherin,Slytherin,Founder of Slytherin House,"Ambitious, Power-hungry",Unknown,Pure-blood,Unknown,Unknown
 59,Godric Gryffindor,Gryffindor,Founder of Gryffindor House,"Brave, Noble, Kind-hearted",Unknown,Pure-blood,Lion,Unknown
@@ -64,7 +64,7 @@ SNO,Name,House,Role,Notable Traits,Birthdate,Blood Status,Patronus,Wand Core
 63,Theseus Scamander,Hufflepuff,"Auror, Brother of Newt","Brave, Loyal",Unknown,Muggle-born,Unknown,Unknown
 64,Leta Lestrange,Slytherin,Formerly in Love with Newt,"Tragic, Conflicted",1901,Pure-blood,Unknown,Unknown
 65,Gellert Grindelwald,Slytherin,"Dark Wizard, Antagonist","Charismatic, Power-hungry",1883,Pure-blood,Unknown,Unknown
-66,Nagini,,Voldemort’s Snake,"Loyal, Dangerous",Unknown,Unknown,Unknown,Unknown
+66,Nagini,,Voldemorts Snake,"Loyal, Dangerous",Unknown,Unknown,Unknown,Unknown
 67,Myrtle Warren (Moaning Myrtle),,"Ghost, Student","Whiny, Lonely, Sensitive",1928,Muggle-born,Unknown,Unknown
 68,The Grey Lady (Helena Ravenclaw),Ravenclaw,"Ghost, Daughter of Rowena","Wise, Sorrowful",1000s,Pure-blood,Unknown,Unknown
 69,Nearly Headless Nick,Gryffindor,"Ghost, Gryffindor House","Humorous, Kind, Gentle",1300s,Muggle-born,Unknown,Unknown
