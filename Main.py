@@ -1,6 +1,6 @@
-NEO4J_URI="neo4j+s://7ce2ba95.databases.neo4j.io"
+NEO4J_URI=""
 NEO4J_USERNAME="neo4j"
-NEO4J_PASSWORD="7rpHkvW_zsfPDPt6GftaxrHkHMoouOb22gPWTHkKezs"
+NEO4J_PASSWORD=""
 import os
 os.environ["NEO4J_URI"]=NEO4J_URI
 os.environ["NEO4J_USERNAME"]=NEO4J_USERNAME
